@@ -1,5 +1,5 @@
 flask==2.2.2
 requests>=2.25.1
 pandas
-werkzeug<2.1
+werkzeug
 gunicorn
